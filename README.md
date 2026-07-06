@@ -22,7 +22,7 @@ skill/
 | Skill | 用途 | 来源 |
 | --- | --- | --- |
 | `project-interrogator` | 中文项目拷问官：基于简历进行项目深挖、模拟面试、追问和面试复盘报告。 | 个人自有 / 本地沉淀 |
-| `shushu-internship-tool` | 鼠鼠实习妙妙工具：围绕目标 JD 找项目、审代码、设计改造、生成简历 STAR 和面试材料。 | 个人自有 / 本地沉淀 |
+| `shushu-internship-tool` | 鼠鼠实习妙妙工具：围绕目标 JD 找项目、审代码、设计改造、生成简历 STAR 和面试材料。 | 来源于 GitHub 项目整理 |
 | `code-development-standards` | 代码开发规范：在开发、重构、排障、测试和技术文档中统一中文注释、日志和文档风格。 | 个人自有 / 本地沉淀 |
 | `server-ops-deploy` | 个人服务器部署运维：覆盖 Git 同步、Docker Compose、nginx、HTTPS、静态站发布、回滚和验证。 | 个人自有 / 本地沉淀 |
 | `ai-agent-daily-mentor` | 中文 AI Agent 实习冲刺导师：生成 8 周学习路线、每日任务、反馈调整和 Obsidian 双链知识点。 | 来源于 GitHub 项目整理 |
