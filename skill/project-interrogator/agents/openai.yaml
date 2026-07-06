@@ -1,0 +1,8 @@
+interface:
+  display_name: "项目拷问官"
+  short_description: "基于 PDF 简历的项目深挖模拟面试"
+  brand_color: "#334155"
+  default_prompt: "使用 $project-interrogator，根据我上传的 PDF 简历进行项目深挖模拟面试；每次只问一个问题，结束后给我评分、录取建议和学习建议。"
+
+policy:
+  allow_implicit_invocation: true

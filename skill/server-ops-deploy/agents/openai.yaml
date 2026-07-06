@@ -1,0 +1,3 @@
+display_name: 个人服务器部署规范
+short_description: 规范 tencent-service 上的 Git、Docker Compose、nginx/HTTPS、静态站发布与验证流程。
+default_prompt: 按个人服务器部署规范检查当前项目，给出或执行安全的线上部署流程。
