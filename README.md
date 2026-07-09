@@ -10,6 +10,7 @@
 skill/
 ├── ai-agent-daily-mentor/
 ├── code-development-standards/
+├── drawio-mermaid/
 ├── learning-companion/
 ├── project-interrogator/
 ├── server-ops-deploy/
@@ -25,6 +26,7 @@ skill/
 | `project-interrogator` | 中文项目拷问官：基于简历进行项目深挖、模拟面试、追问和面试复盘报告。 | 个人自有 / 本地沉淀 |
 | `shushu-internship-tool` | 鼠鼠实习妙妙工具：围绕目标 JD 找项目、审代码、设计改造、生成简历 STAR 和面试材料。 | 来源于 GitHub 项目整理 |
 | `code-development-standards` | 代码开发规范：在开发、重构、排障、测试和技术文档中统一中文注释、日志和文档风格。 | 个人自有 / 本地沉淀 |
+| `drawio-mermaid` | draw.io / diagrams.net 转换工具：覆盖 Mermaid -> draw.io、draw.io XML/.drawio -> PNG/SVG/PDF 官方导出，以及 draw.io XML -> 语义化 Mermaid。 | 个人自有 / 本地沉淀 |
 | `server-ops-deploy` | 个人服务器部署运维：覆盖 Git 同步、Docker Compose、nginx、HTTPS、静态站发布、回滚和验证。 | 个人自有 / 本地沉淀 |
 | `ai-agent-daily-mentor` | 中文 AI Agent 实习冲刺导师：生成 8 周学习路线、每日任务、反馈调整和 Obsidian 双链知识点。 | 来源于 GitHub 项目整理 |
 | `learning-companion` | 通用学习陪练：学语言/读论文/啃开源项目/跟进技术方向，有状态工作区+一手引用+自测闪卡+Obsidian 双链，含快速拆解轻模式。 | 个人自有 / 本地沉淀 |
