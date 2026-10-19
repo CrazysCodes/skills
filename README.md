@@ -12,6 +12,8 @@ skill/
 ├── code-development-standards/
 ├── drawio-mermaid/
 ├── learning-companion/
+├── migrate-codex/
+├── migrate-hermes/
 ├── project-interrogator/
 ├── server-ops-deploy/
 └── shushu-internship-tool/
@@ -30,11 +32,14 @@ skill/
 | `server-ops-deploy` | 个人服务器部署运维：覆盖 Git 同步、Docker Compose、nginx、HTTPS、静态站发布、回滚和验证。 | 个人自有 / 本地沉淀 |
 | `ai-agent-daily-mentor` | 中文 AI Agent 实习冲刺导师：生成 8 周学习路线、每日任务、反馈调整和 Obsidian 双链知识点。 | 来源于 GitHub 项目整理 |
 | `learning-companion` | 通用学习陪练：学语言/读论文/啃开源项目/跟进技术方向，有状态工作区+一手引用+自测闪卡+Obsidian 双链，含快速拆解轻模式。 | 个人自有 / 本地沉淀 |
+| [`migrate-codex`](skill/migrate-codex/SKILL.md) | Codex 迁移与恢复：清点并迁移本地会话、项目、工作区和个人配置，支持跨系统搬迁、备份恢复及历史缺失排查。 | 个人自有 / 本地沉淀 |
+| [`migrate-hermes`](skill/migrate-hermes/SKILL.md) | Hermes Agent 迁移与自检：覆盖会话、记忆、技能、cron、gateway 和外部工具环境的备份恢复、环境修复与验收。 | 个人自有 / 本地沉淀 |
 
 ## 来源说明
 
 - `ai-agent-daily-mentor` 来源于 GitHub 项目整理，保留其子目录内原始 `README.md` 和配套参考资料。
-- 其余 skill 为个人自有或本地沉淀内容，用于日常开发、面试辅导、实习项目准备和服务器部署等场景。
+- `shushu-internship-tool` 来源于 GitHub 项目整理，包含配套脚本与参考资料。
+- 其余 skill（包括 `migrate-codex`、`migrate-hermes`）为个人自有或本地沉淀内容，用于日常开发、学习陪练、面试辅导、实习项目准备、服务器部署和 Agent 环境迁移恢复等场景。
 
 ## 使用方式
 
