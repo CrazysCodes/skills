@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes 迁移与自检"
+  short_description: "使用官方备份与导入，检查会话任务并修复换机后的依赖和业务链路"
+  default_prompt: "使用 $migrate-hermes 检查实际数据目录，准备备份恢复并验证迁移后的工具链。"
