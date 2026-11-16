@@ -16,7 +16,8 @@ skill/
 ├── migrate-hermes/
 ├── project-interrogator/
 ├── server-ops-deploy/
-└── shushu-internship-tool/
+├── shushu-internship-tool/
+└── website-quality-audit/
 ```
 
 每个子目录都是一个完整 skill，至少包含 `SKILL.md`；部分 skill 还包含 `agents/`、`references/`、`scripts/` 等配套资源。
@@ -25,6 +26,7 @@ skill/
 
 | Skill | 用途 | 来源 |
 | --- | --- | --- |
+| [`website-quality-audit`](skill/website-quality-audit/SKILL.md) | 网站作品体检：从 URL 按八维与按需后端专项评估质量，引用权威指标，输出有证据的中文报告与 AI 修复任务。 | 个人自有 / 研究与实测沉淀 |
 | `project-interrogator` | 中文项目拷问官：基于简历进行项目深挖、模拟面试、追问和面试复盘报告。 | 个人自有 / 本地沉淀 |
 | `shushu-internship-tool` | 鼠鼠实习妙妙工具：围绕目标 JD 找项目、审代码、设计改造、生成简历 STAR 和面试材料。 | 来源于 GitHub 项目整理 |
 | `code-development-standards` | 代码开发规范：在开发、重构、排障、测试和技术文档中统一中文注释、日志和文档风格。 | 个人自有 / 本地沉淀 |
